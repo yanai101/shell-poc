@@ -8,7 +8,7 @@ Every app it can stand alone
 ## navigation
 
 implementation - the app listening to post Message from the shell and routing to the inside url - in this way you get all benefit of the inside routing.
-The shell are using the history api to manage the state and adding to every state additional information based on the app.
+The shell are using the history api to manage the state and adding to every state additional information based on the app and the changes in the app are reflected in the url
 
 ## web component
 
