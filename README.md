@@ -19,7 +19,7 @@ Every app in export a native web component to the shell to display - that is the
 **In the react app** -we need to wrap a react render with our web component
 [https://reactjs.org/docs/web-components.html](https://reactjs.org/docs/web-components.html)
 
-we have a base web component that adds functionality to the routine - that every app is use it.
+we have a base web component that adds functionality to the routine - that every app is using it.
 
 to run the demo - run every app and open the shell
 
